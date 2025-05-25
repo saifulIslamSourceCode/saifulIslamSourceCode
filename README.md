@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Saiful from Bangladesh.
-#### I am a Developer.
 
 Passionate web developer skilled in HTML, CSS, and JavaScript for sleek and responsive interfaces. Dedicated to continuous learning, collaboration, and pushing the boundaries of web technology.
 
-Skills:  JS / HTML / CSS / TS / Angular / Algorithm
+Skills:  JS | TS | Angular | SACSS | Html & CSS
 
 
 
