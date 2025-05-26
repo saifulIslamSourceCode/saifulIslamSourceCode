@@ -17,10 +17,10 @@
 <h2>⚡️ Where to find me</h2>
 <div style="display: flex; gap: 10px; align-items: center;">
   <a target="_blank" href="https://www.linkedin.com/in/saifulislam-dev/">
-    <img src="https://img.freepik.com/premium-photo/round-linkedin-logo-isolated-white-background_469489-1046.jpg?semt=ais_hybrid&w=740" alt="linkedin" width="30" height="30" />
+    <img src="https://img.freepik.com/premium-photo/round-linkedin-logo-isolated-white-background_469489-1046.jpg?semt=ais_hybrid&w=740" alt="linkedin" width="42" height="42" />
   </a>
   <a target="_blank" href="https://leetcode.com/u/saifulWebDev/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="leetcode" width="30" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="leetcode" width="42" height="42" />
   </a>
 </div>
 
