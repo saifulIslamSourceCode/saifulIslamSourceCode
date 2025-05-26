@@ -11,9 +11,10 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/saifulislam-dev/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
-<p><a target="_blank" href="https://leetcode.com/u/saifulWebDev/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/saifulislam-dev/" style="display: inline-block;"><img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
+<p><a target="_blank" href="https://leetcode.com/u/saifulWebDev/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saifulIslamSourceCode&show_icons=true&locale=en" alt="saifulIslamSourceCode" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulIslamSourceCode&" alt="saifulIslamSourceCode" /></p>
