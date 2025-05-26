@@ -12,7 +12,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 
-<p><a target="_blank" href="https://www.linkedin.com/in/saifulislam-dev/" style="display: inline-block;"><img src="https://img.freepik.com/premium-photo/round-linkedin-logo-isolated-white-background_469489-1046.jpg?semt=ais_hybrid&w=740?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/saifulislam-dev/" style="display: inline-block;"><img src="https://img.freepik.com/premium-photo/round-linkedin-logo-isolated-white-background_469489-1046.jpg?semt=ais_hybrid&w=740" alt="linkedin" /></a></p>
 
 <p><a target="_blank" href="https://leetcode.com/u/saifulWebDev/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
