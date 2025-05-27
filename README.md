@@ -26,5 +26,4 @@
 
 <p><a href="https://github.com/saifulIslamSourceCode" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saifulIslamSourceCode&show_icons=true&locale=en" alt="saifulIslamSourceCode" /></a></p>
 <p><a href="https://github.com/saifulIslamSourceCode" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulIslamSourceCode&" alt="saifulIslamSourceCode" /></a></p>
-<p><a href="https://github.com/saifulIslamSourceCode" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifulIslamSourceCode&show_icons=true&locale=en&layout=compact" alt="saifulIslamSourceCode" /></a></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=saifulIslamSourceCode" alt="saifulIslamSourceCode" /></a></p>
