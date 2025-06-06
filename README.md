@@ -1,6 +1,6 @@
 <h1>Hi there 👋, my name is Saiful from Bangladesh</h1>
 <h2>Continuous learning, collaboration, and pushing the boundaries of web technology.</h2>
-
+<br><br>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a href="https://angular.io/assets/images/logos/angular/angular.svg" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
