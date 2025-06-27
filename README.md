@@ -19,18 +19,15 @@
   </a>
 </p>
 
-<!-- Second row: React, Angular -->
 <!-- Second row: React, AngularJS, Angular -->
 <p>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42" />
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="42" height="42" />
   </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="42" height="42" />
-  </a>
+<a href="https://angular.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="42" height="42" />
+</a>
 </p>
 
 <!-- Third row: HTML, CSS, Sass, Bootstrap -->
