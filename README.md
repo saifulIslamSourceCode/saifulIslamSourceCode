@@ -5,6 +5,10 @@
 <p>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+  
+  <!-- Added Python logo here -->
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+  
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
