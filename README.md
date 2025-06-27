@@ -2,19 +2,47 @@
 <h2>Continuous learning, collaboration, and pushing the boundaries of web technology.</h2>
 <br><br>
 <h2>🚀 Languages and Tools I Use</h2>
+
+<!-- First row: JS, Python, C, TypeScript -->
 <p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-  
-  <!-- Added Python logo here -->
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-  
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" />
+  </a>
+</p>
+
+<!-- Second row: React, Angular -->
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="42" height="42" />
+  </a>
+</p>
+
+<!-- Third row: HTML, CSS, Sass, Bootstrap -->
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" />
+  </a>
 </p>
 
 <h2>⚡️ Where to find me</h2>
